@@ -48,6 +48,7 @@
                 jupyterlab
                 jupyterlab-lsp
                 python-lsp-server
+                cython
               ]))
               pkgs.libsnd
             ];
